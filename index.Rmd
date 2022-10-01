@@ -1,0 +1,222 @@
+---
+title: "Dr. Harrie Jonkman"
+image: "Harrie1.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/harrie-jonkman-5224091a/"
+  - label: Website
+    url: "https://www.harriejonkman.nl/"
+  - label: GitHub
+    url: "https://github.com/Jonkman1"
+  - label: Email
+    url: "mailto:harriejonkman@xs4all.nl"
+output:
+  postcards::trestles
+---
+
+Dr. Harrie Jonkman | Zuideinde 387e | 1035PE Amsterdam | the Netherlands | harriejonkman@xs4all.nl | 0031634738591 
+
+<br>
+
+## Positions
+
+**Senior Researcher** | Verwey-Jonker Institute, Utrecht Netherlands
+
+Conducting experiments and evaluations of social programs, longitudinal studies, and international comparative studies on youth. | 2008 - 2022
+
+**Senior Researcher** | Netherlands Youth Institute, Utrecht Netherlands | 1999 - 2007
+
+**Clinical Researcher anti-social youngsters** | Independent  | 2000 - 2003 
+
+**Educationalist in area of Childrens Rights, War and Peace** | National Committee 4&5 May, Amsterdam Netherlands | 1993-1999
+
+**Educationalist in Special Education** | Different schools in the Netherlands | 1984 - 1993
+
+**Researcher Youth Criminology** | University of Groningen, the Netherlands | 1982 - 1984
+
+<br>
+
+## Other
+
+**Vice chair Steering Committee** | Stichting Westelijke Tuinsteden, Public Education Amsterdam | 2012 - 2020
+
+**Member Steering Committee** | Stichting Orion, Special Education Amsterdam | 2004 - 2012
+
+**Advisor** | Defence for Children | the Netherlands | 2004 - 2009
+
+**Member Steering Committee** | Stichting Gooische Scholenfederatie | Public Education 't Gooi, Netherlands | 1993 -2003 
+
+**Member Steering Committee** | Stichting Delta Scholengemeenschap, Bussum Netherlands | 1990 - 1993
+
+<br>
+
+## Education
+
+**Data Science Professional** | Certificate of Harvard University EdX of prof. dr. Rafael Irizarry with courses on R basics, visualization, probability, inference  and modeling, productivity tools, wrangling, linear regression, machine learning and capstone | 2021 -2022
+
+**PhD** | Faculty of Psychology and Pedagogy, Vrije University of Amsterdam, Netherlands Study into the effects of the prevention strategy Communities  that Care in the Netherlands | 2008 - 2012
+
+**MSc** |  General and Specialised Orthopedagogy, NVO | 2001 - 2003
+
+**Drs** |  (equivalent to MA) in Pedagogy and Criminology, University of  Groningen | 1979 - 1984
+
+**Bachelor** |  Sociology, University of Utrecht, the Netherlands | 1977 - 1979 
+
+<br>
+
+## Research grants and awards (last 10 years)   
+*Principal investigator*   
+**NWO/NRO** | Kennissynthese Onderwijs-Jeugd(zorg), € 81.022.,- | 03/2021 – 8/2021
+
+**ZonMW Medical and Health Research Council** | Werken aan de toekomst van JeugdzorgPlus (Working on the future 
+of Youth care), € 149.440,- | 10/2019 – 4/2021
+
+**NRO** | Identiteitsontwikkeling, Radicalisering en ONderwijs (IRON; Development of Identity, Radicalization and Education), € 435.519,- | 10/2018-9/2021
+
+**Verre Bergen** | Peuter College, Effect of a preschool program in an urban context, €291.950,- | 1/2014 – 12/2018
+
+**Ministry of Education Curacao** | Communities that Care in the Antilles, €350.000,- | 1/2004 – 12/2006
+
+**Ministry of Justice/VWS** | Communities that Care in the Netherlands Development, adaptation, sustainability, bringing to scale of Communities that Care prevention systems to the cities and neighbourhoods of the 
+Netherlands, €600.000,- | 1/2000 – 12/2006
+
+*Project leader* 
+
+**SIA** | Support vulnerable youth (16-20 years) on their way to adulthood  (together with InHolland) | €700.000,- | 9/2017 – 9/2021
+
+**ZonMW Medical and Health Research Council** | CIKEO-project. Effective elements of preventive interventions for parents (together with EUR and LU), €750.000,- | 8/2016– 8/2019
+
+**Verre Bergen** Vakmanstad, Effects of a school intervention, €264.175,- | 1/2011 – 12/2015
+
+**European Commission** Effective environmental strategies for the prevention of alcohol abuse among adolescents in Europe, €2.025.953,- | 1/2010 – 12/2013
+
+**ZonMW Medical and Health Research Council** | Effectiveness study ‘Thuis op Straat’ (Home on the street): experimental study of the community  intervention ‘Thuis op Straat’, €350.000,- | 1/2010 – 12/2014
+
+**ZonMW Medical and Health Research Council** | Community Prevention System Change: a binational study US-the Netherlands: €100.000,- | 6/2010 – 12/2012
+
+**ZonMW** | Communities that Care: Effectiveness of a community intervention strategy of the prevention of alcohol and drug use and other problem behaviour of youngsters in the Netherlands, €850.000,- | 1/2008 – 12/2011
+
+**NIDA** | Scholarship award as 'Distinguished Researcher' from the National Institute 
+on Drug Abuse (USA) | 2012
+
+<br>
+
+## Publications (selection)
+
+Jonkman, H., Rooijen, M., Wiersma, M. & Goor, R. van (2022, accepted). *Validation study of the Child and Youth Resilience Measure CYRM-28 among Dutch Youth* , Frontiers in Psychiatry[here](https://www.frontiersin.org/articles/10.3389/fpsyt.2022.637760/full). 
+
+Jonkman, H., Slotboom, A.M., Weerman, F., Eerten, J.J. van (2022). *Onderwijs, identiteitsontwikkeling bij jongeren en hun omgang met idealen. Een studie naar het ontstaan van radicalisering in de vroege adolescentie en de rol van onderwijs hierin*. Utrecht: Verwey-Jonker Instituut.
+
+Crone, M.R. en Jonkman, H. (2022). *Programma’s, praktijk en professionals. Werkzame elementen in preventieve opvoedinterventies*. Utrecht: Verwey-Jonker Instituut.
+
+Fang, Y., Raat, H., Windhorst, D.A. Fierloos, I.N., Jonkman, H., Hosman, C.M.H., Crone, M.R., Jansen, W. & 
+Grieken, A. van (2022). *The association between stressful life events and emotional and behavioral problems in children 0-7 years old: The CIKEO-study*. International Journal of Environment Research and Public Health, 
+19, 1650. https://doi.org/10.3390/ijerph19031650.
+
+Farrington, D.P., Jonkman, H. & Groeger-Roth, F.(2021). *Delinquency and Substance Use in Europe: Understanding Risk and Protective Factors*. New York: Springer,[here](https://link.springer.com/book/10.1007/978-3-030-58442-9)
+
+Jonkman, H., Brock, A., Britt, A. en Winter-Kocak, S. de (2021). *Kennis versterken over de verbinding tussen onderwijs en jeugdhulp. Naar een nieuwe onderzoeksprogrammering*. Utrecht: NRO/ ZonMw/Verwey-Jonker Instituut
+
+Jonkman, H., Middelkoop, D. van, Boendermaker, L., Loon-Dikkers, A.L.C. van, Zinsmeister, J.H.G., Verheem, 
+E.A. en Otte, K. (2021). *Werken aan de toekomst van JeugdzorgPlus. Samenvattend rapport*. Utecht: VerweyJonker Instituut.
+
+Jonkman, H. & Loon-Diikers, A.L.C. van (2021). *Werken aan de toekomst van JeugdzorgPlus. Het bredere arbeidsperspectief*. Utrecht: Verwey-Jonker Instituut. 
+
+Jonkman, H. & Crone, M. (2022). *Programma’s, praktijk en professionals. Werkzame elementen in preventieve opvoedinterventies*. Utrecht: Verwey-Jonker Instituut.
+
+Jonkman, H. (2021). *Terugschrijven. Over kennis, ontwikkeling en democratie*. Amsterdam.
+http://www.harriejonkman.nl/wp-content/uploads/2021/05/Terugschrijven_def.pdf
+
+Steketee, M., Jonkman, H., Naber, P. & Distelbrink, M. (2021). *Does Teen Triple P affect parenting and the social and emotional behaviours of teenagers? A study of the Positve Parenting Programme in the Netherlands*. 
+Behaviour Change, First View, p.1-14, doi: https://doi.org/10.1017/ bec.2021.2
+
+Beelmann, A. & Jonkman, H. (2021). *Preventie van radicalisering en extremisme. Een kennisbestand voor het Hoger Onderwijs*. Utrecht: Verwey-Jonker Instituut.
+
+Jonkman, H., Crone, M., Hosman, C., & Raat, H. (2020). *Overzicht, samenvatting en conclusies. Werkzame elementen in preventieve opvoedinterventies*. Utrecht: Verwey-Jonker Instituut.
+
+Hosman, C. & Jonkman, H. (2020). *Werken aan publieke en maatschappelijke impact. Werkzame elementen in preventieve opvoedinterventies*. Utrecht: Verwey-Jonker Instituut.
+
+Windhorst, D.A., Fang, Y., Fierloos, I.N., Crone, M.R., Van Mourik, K., Jonkman, H., Hosman, C.M.H., Jansen, 
+W. en Raat, H.(2019). *Evaluation of effectiveness of (elements of) parenting support in daily practice of preventive youth health care; design of a naturalistic effect evaluation in ‘CIKEO’ (consortium integration knowledge promotion effectiveness of parenting interventions)*. BMC Public Health 19, 1462,
+doi:10.1186/s12889-019-7785-y
+
+Boelens, M., Windhorst, D.A., Jonkman, H. et al. (2019) *Evaluation of the promising neighbourhoods community program to reduce health inequalities in youth: a protocol of a mixed-methods study*. BMC Public 
+Health 19, 555 (2019) doi:10.1186/s12889-019-6901-3
+
+Jonkman, H., Kolijn, E., Rooijen, M. van, Meijer, L. en Distelbrink, M. (2019). *Investeren in de Toekomst. De effecten van het Peutercollege (2013-2018)*. Utrecht: Verwey-Jonker Instituut, 
+
+Rowland, B., Jonkman, H., Williams, J. & Toumbourou, J.W. (2019). *Community variation in adolescent cannabis use in Australia and the Netherlands. Addictive Behaviors*, 9, 204-209.
+
+Rowland, B., Jonkman, H. Steketee, M., Solomon, R., Solomon, S. Catalano, R. & Toumbourou, J.W. (2019). 
+*Cross-national comparison of the development of adolescent problem behaviour: a 1 year longitudinal study in India, the Netherlands, USA and Australia*. Prevention Science. https://doi.org/10.1007/s11121-019-01007-3
+
+Jonkman, H. & Wonderen, R. van (2017). *The effects of At Home in the Street (TOS): Results of a Dutch community intervention in a four-year study*. Jounal of Children’s Services. Vol. 12, Issue: 1, pp 32-46, 
+htpps://doi.org/10.1108/JCS-03-2017-0005.
+
+Jonkman, H., Kocak, S., Meere, F. de en Arkestein, E. (2016). *Over vrijheid onderhouden. Evaluatie BZK subsidie Nationaal Comitë 4 en 5 mei*. Utrecht: Verwey-Jonker Instituut. 
+
+Jonkman, H. en Gruijter, M. de (2016). *Onderzoek Rotterdam Vakmanstad 2012-2015*. Utrecht: De Verre 
+Bergen/Verwey-Jonker Instituut.
+
+Jonkman, H. (2016). *Ogen blikken op boeken. Over kennis en ontwikkeling in 2015*. Amsterdam. 
+
+Jonkman, H., Aussems, C., Steketee, M., Boutellier, H. & Cuijpers, P. (2015). *Prevention of problem behaviours among youngsters: The impact of the Community that Care-strategy in the Netherlands (2008-2011)*.
+International Journal of Developmental Studies, 9, 37-52.
+
+Catalano, R. & Jonkman, H. (2015). *International translational research: Promise and caution*.
+Guest editorial in: International Journal of Developmental Studies, 9, 1-4.
+
+Rovis, D., Jonkman, H. and Basic, J. (2015). *A multilevel analysis of adverse family relations, school bonding, and risk behaviours among adolescents*, Journal of Child and Family Studies, DOI: 10.1007/s10826-015-0223-6. 
+
+Wonderen, R. van & Jonkman, H. (2015). *De effecten van Thuis Op Straat*. Resultaten van een vierjarige studie.
+Utrecht: Verwey-Jonker Instituut.
+
+Jonkman, H. (2015, edited). *Prävention seelischer,emotionaler und verhaltensbezogener Störungen bei jungen Menschen: Fortschritte und Möglichkeiten*. Edited version DPT-I, Hannover, Germany. 
+
+Jonkman, H., Steketee, M., Toumbourou, J., Williams, J. & Karly, C. (2014). *Cross-national adolescent alcohol use. Comparison of community variation in adolescent heavy alcohol use in Australia and the Netherlands*. 
+Health Promotion International,29(1): 109-117.
+
+Steketee, M., Oesterlee, S., Jonkman, H., Hawkins, J.D., Haggerty, K.P. & Aussems, C. (2013). *Transforming prevention systems in the United States and the Netherlands Using Commmunities that Care. Promising prevention in the eyes of Josine Junger-Tas*. European Journal of Criminal Policy and Research, 19(2), 99-116.
+
+Steketee, M., Jonkman, H., Berten, H. & Vettenburg, N.(eds)(2013). *Alcohol Use Among Adolescents in Europe’. Environmental Research and Preventive Actions*. Utrecht: Verwey-Jonker Institute. 
+
+Steketee, M., Jonkman, H., Mak, J., Aussems, C., Huijgen, A. en Roeleveld, W. (2012). *Communities Thtat Care in Nederlandse steden. Resultaten van een vierjarige experimentele studie*. Utrecht: Verwey-Jonker Instituut.
+
+Oesterle, S., Hawkins, J.D., Steketee, M., Jonkman, H., Browne, E.C., Moll, M., & Haggerty, K.P. (2012). *A Cross-National Comparison of Risk and Protective Factors for Adolescent Drug Use and Delinquency in the United States and the Netherlands*. Journal of Drug Issues, vol. 42, p. 337-357. 
+
+Jonkman, H. (2012). *Some years of Communities that Care. Learning from a social experiment*, Vrije University Amsterdam/Seattle. 
+
+Jonkman, H., Cuijpers, P. & Boutellier, H. (2010). *Different worlds, common roots. A multilevel analysis of youth violence and delinquency in the Netherlands Antilles as a basis for crime prevention. Wellbeing and social policy*, 6(2), 2010, 25-45. 
+
+Jonkman, H., Boutellier, H., Cuijpers, P., Looy, P. van & Twisk, J. (2010). *Prevention of anti-social behaviour in an urban context. Where to begin, what to target, what to expect?* Crime Prevention and Community Safety, 
+13(2), 102-118. 
+
+Jonkman, H.B., Haggerty, K.P., Steketee, M., Fagan, A., Hanson, K., & Hawkins, J.D. (2009). *Communities that Care, core elements and context: Research of implementation in two countries*. Social Development Issues, 
+30(3), 42-57. 
+
+<br>
+
+
+## Additional
+*Harrie's Hoekje*, my blog on developments in modern data analysis [here](https://harrieshoekje.netlify.app/).
+
+*NSC-R Workshops*, developed a blog for weekly data analysis blog on data science using R, Netherlands Centre for the Study on Crime and Law Enforcement, [here](https://nscrweb.netlify.app/blog.html) 
+
+<br>
+
+## Presentations (selection)
+Elicitation of effects;Working at public and social impact, ZonMW | 2020 
+
+Extremism, radicalization and prevention, Gent, Belgium | 2019
+
+Health for all, Ryeka, Croatia | 2016
+
+Prevention Days, Frankfurt, Germany | 2015
+
+Prevention Days, Karlsruhe, Germany | 2014
+
+European Society of Prevention Research, Mallorca, Spain | 2014
+
+Ministry of Health, Stockholm, Sweden | 2013
+
+European Society of Prevention Research, Krakow, Poland | 2012
